@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yfarkash.github.io/sunrisesunset/sitemap.xml

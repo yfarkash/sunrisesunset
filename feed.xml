@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>GitTest</title>
+    <link href="https://yfarkash.github.io/sunrisesunset/feed.xml" rel="self" />
+    <link href="https://yfarkash.github.io/sunrisesunset" />
+    <updated>2024-09-30T17:09:08-04:00</updated>
+    <author>
+        <name>Yoav</name>
+    </author>
+    <id>https://yfarkash.github.io/sunrisesunset</id>
+
+    <entry>
+        <title>Test page for test site</title>
+        <author>
+            <name>Yoav</name>
+        </author>
+        <link href="https://yfarkash.github.io/sunrisesunset/test-page-for-test-site.html"/>
+        <id>https://yfarkash.github.io/sunrisesunset/test-page-for-test-site.html</id>
+
+        <updated>2024-09-30T17:09:08-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is just a test space
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is just a test space</p>
+<figure class="post__image"><img loading="lazy"  src="https://yfarkash.github.io/sunrisesunset/media/posts/1/PXL_20240612_120936468.jpg" alt="" width="4624" height="3472" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-xs.jpg 640w ,https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-sm.jpg 768w ,https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-md.jpg 1024w ,https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-lg.jpg 1366w ,https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-xl.jpg 1600w ,https://yfarkash.github.io/sunrisesunset/media/posts/1/responsive/PXL_20240612_120936468-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
